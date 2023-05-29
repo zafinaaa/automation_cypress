@@ -1,0 +1,12 @@
+{
+    "firstName" : "User new",
+    "lastName" : "3",
+    "email" : "usernew22@yopmail.com",
+    "validPassword" : "AdI&uKJ9Box7",
+    "invalidPassword" : "abc123",
+    "passwordLabelWeak" : "Weak",
+    "passwordLabelStrong" : "Very Strong",
+    "passwordStrengthLabel" : "Password Strength",
+    "passwordStrengthErrorMsg" : "Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.",
+    "passwordDoNotMatchErrorMsg" : "Please enter the same value again."
+}

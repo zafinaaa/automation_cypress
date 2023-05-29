@@ -1,0 +1,16 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "automation testing use cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-register": "npx cypress run --spec 'cypress/e2e/LUMA/createAccount.cy.js'",
+    "run-luma": "npx cypress run --spec 'cypress/e2e/LUMA/*.js' "
+  },
+  "author": "zafina aisyah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
